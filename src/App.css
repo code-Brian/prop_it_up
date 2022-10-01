@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+.App-PersonCard {
+  display: flex;
+  flex-flow: column nowrap;
+  justify-content: center;
+  align-items: flex-start;
+  padding: 2rem;
+}
+
+.App-PersonCardList {
+  list-style: none;
+}
